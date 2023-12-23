@@ -27,12 +27,3 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilydv18&show_icons=true&locale=en&theme=tokyonight" alt="sahilydv18" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilydv18&theme=tokyonight" alt="sahilydv18" /></p>
-
-<div align="center">
-<a href="https://github.com/sahilydv18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilydv18&theme=tokyonight" height="180em" />
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilydv18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilydv18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilydv18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilydv18&theme=2077" height="180em" />
-</div> -->
