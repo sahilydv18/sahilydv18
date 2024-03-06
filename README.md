@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilydv18&theme=darkhub" alt="sahilydv18" /></a> </p>
 
-- 🌱 I’m currently learning **Java, JavaFX, DSA, FXML**
+- 🌱 I’m currently learning **Android App Development**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
