@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Android App Development<br>💬 Ask me about Java, Kotlin<br>
+🌱 I’m currently learning **Android App Development**<br>💬 Ask me about **Java, Kotlin**<br>
 
 
 ## 🌐 Socials:
