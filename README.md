@@ -1,27 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilydv18&label=Profile%20views&color=0e75b6&style=flat" alt="sahilydv18" /> </p>
+# 💫 About Me:
+🌱 I’m currently learning Android App Development<br>💬 Ask me about Java, Kotlin<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilydv18&theme=darkhub" alt="sahilydv18" /></a> </p>
 
-- 🌱 I’m currently learning **Android App Development**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil.yadvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilydv) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sahilydv18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahilydv18&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilydv18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahilydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="sahilydv" height="30" width="40" /></a><a href="https://instagram.com/sahil.yadvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="sahil.yadvv" height="30" width="40" /></a></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sahilydv18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilydv18&layout=compact&theme=tokyonight" alt=sahilydv18 />
+---
+[![](https://visitcount.itsvg.in/api?id=sahilydv18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilydv18&show_icons=true&locale=en&theme=tokyonight" alt="sahilydv18" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilydv18&theme=tokyonight" alt="sahilydv18" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
